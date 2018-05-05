@@ -1,4 +1,4 @@
-package hupu;
+package spider.hupu;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
